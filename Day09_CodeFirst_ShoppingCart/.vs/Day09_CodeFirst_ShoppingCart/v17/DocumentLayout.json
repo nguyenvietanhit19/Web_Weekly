@@ -1,0 +1,242 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\Day09_CodeFirst_ShoppingCart\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3FA76A-7F14-4B08-B8DE-214A9100B35C}|Day09_CodeFirst_ShoppingCart\\Day09_CodeFirst_ShoppingCart.csproj|d:\\k\u00EC 1 n\u0103m 3\\laptrinhweb\\day09_codefirst_shoppingcart\\day09_codefirst_shoppingcart\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D3FA76A-7F14-4B08-B8DE-214A9100B35C}|Day09_CodeFirst_ShoppingCart\\Day09_CodeFirst_ShoppingCart.csproj|solutionrelative:day09_codefirst_shoppingcart\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3FA76A-7F14-4B08-B8DE-214A9100B35C}|Day09_CodeFirst_ShoppingCart\\Day09_CodeFirst_ShoppingCart.csproj|d:\\k\u00EC 1 n\u0103m 3\\laptrinhweb\\day09_codefirst_shoppingcart\\day09_codefirst_shoppingcart\\controllers\\khachhangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3FA76A-7F14-4B08-B8DE-214A9100B35C}|Day09_CodeFirst_ShoppingCart\\Day09_CodeFirst_ShoppingCart.csproj|solutionrelative:day09_codefirst_shoppingcart\\controllers\\khachhangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3FA76A-7F14-4B08-B8DE-214A9100B35C}|Day09_CodeFirst_ShoppingCart\\Day09_CodeFirst_ShoppingCart.csproj|d:\\k\u00EC 1 n\u0103m 3\\laptrinhweb\\day09_codefirst_shoppingcart\\day09_codefirst_shoppingcart\\models\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3FA76A-7F14-4B08-B8DE-214A9100B35C}|Day09_CodeFirst_ShoppingCart\\Day09_CodeFirst_ShoppingCart.csproj|solutionrelative:day09_codefirst_shoppingcart\\models\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3FA76A-7F14-4B08-B8DE-214A9100B35C}|Day09_CodeFirst_ShoppingCart\\Day09_CodeFirst_ShoppingCart.csproj|d:\\k\u00EC 1 n\u0103m 3\\laptrinhweb\\day09_codefirst_shoppingcart\\day09_codefirst_shoppingcart\\models\\chitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3FA76A-7F14-4B08-B8DE-214A9100B35C}|Day09_CodeFirst_ShoppingCart\\Day09_CodeFirst_ShoppingCart.csproj|solutionrelative:day09_codefirst_shoppingcart\\models\\chitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3FA76A-7F14-4B08-B8DE-214A9100B35C}|Day09_CodeFirst_ShoppingCart\\Day09_CodeFirst_ShoppingCart.csproj|d:\\k\u00EC 1 n\u0103m 3\\laptrinhweb\\day09_codefirst_shoppingcart\\day09_codefirst_shoppingcart\\models\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3FA76A-7F14-4B08-B8DE-214A9100B35C}|Day09_CodeFirst_ShoppingCart\\Day09_CodeFirst_ShoppingCart.csproj|solutionrelative:day09_codefirst_shoppingcart\\models\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3FA76A-7F14-4B08-B8DE-214A9100B35C}|Day09_CodeFirst_ShoppingCart\\Day09_CodeFirst_ShoppingCart.csproj|d:\\k\u00EC 1 n\u0103m 3\\laptrinhweb\\day09_codefirst_shoppingcart\\day09_codefirst_shoppingcart\\models\\loaisanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3FA76A-7F14-4B08-B8DE-214A9100B35C}|Day09_CodeFirst_ShoppingCart\\Day09_CodeFirst_ShoppingCart.csproj|solutionrelative:day09_codefirst_shoppingcart\\models\\loaisanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3FA76A-7F14-4B08-B8DE-214A9100B35C}|Day09_CodeFirst_ShoppingCart\\Day09_CodeFirst_ShoppingCart.csproj|d:\\k\u00EC 1 n\u0103m 3\\laptrinhweb\\day09_codefirst_shoppingcart\\day09_codefirst_shoppingcart\\models\\quantri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3FA76A-7F14-4B08-B8DE-214A9100B35C}|Day09_CodeFirst_ShoppingCart\\Day09_CodeFirst_ShoppingCart.csproj|solutionrelative:day09_codefirst_shoppingcart\\models\\quantri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3FA76A-7F14-4B08-B8DE-214A9100B35C}|Day09_CodeFirst_ShoppingCart\\Day09_CodeFirst_ShoppingCart.csproj|d:\\k\u00EC 1 n\u0103m 3\\laptrinhweb\\day09_codefirst_shoppingcart\\day09_codefirst_shoppingcart\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3FA76A-7F14-4B08-B8DE-214A9100B35C}|Day09_CodeFirst_ShoppingCart\\Day09_CodeFirst_ShoppingCart.csproj|solutionrelative:day09_codefirst_shoppingcart\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3FA76A-7F14-4B08-B8DE-214A9100B35C}|Day09_CodeFirst_ShoppingCart\\Day09_CodeFirst_ShoppingCart.csproj|d:\\k\u00EC 1 n\u0103m 3\\laptrinhweb\\day09_codefirst_shoppingcart\\day09_codefirst_shoppingcart\\controllers\\loaisanphamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3FA76A-7F14-4B08-B8DE-214A9100B35C}|Day09_CodeFirst_ShoppingCart\\Day09_CodeFirst_ShoppingCart.csproj|solutionrelative:day09_codefirst_shoppingcart\\controllers\\loaisanphamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3FA76A-7F14-4B08-B8DE-214A9100B35C}|Day09_CodeFirst_ShoppingCart\\Day09_CodeFirst_ShoppingCart.csproj|d:\\k\u00EC 1 n\u0103m 3\\laptrinhweb\\day09_codefirst_shoppingcart\\day09_codefirst_shoppingcart\\views\\loaisanphams\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D3FA76A-7F14-4B08-B8DE-214A9100B35C}|Day09_CodeFirst_ShoppingCart\\Day09_CodeFirst_ShoppingCart.csproj|solutionrelative:day09_codefirst_shoppingcart\\views\\loaisanphams\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3FA76A-7F14-4B08-B8DE-214A9100B35C}|Day09_CodeFirst_ShoppingCart\\Day09_CodeFirst_ShoppingCart.csproj|d:\\k\u00EC 1 n\u0103m 3\\laptrinhweb\\day09_codefirst_shoppingcart\\day09_codefirst_shoppingcart\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3FA76A-7F14-4B08-B8DE-214A9100B35C}|Day09_CodeFirst_ShoppingCart\\Day09_CodeFirst_ShoppingCart.csproj|solutionrelative:day09_codefirst_shoppingcart\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3FA76A-7F14-4B08-B8DE-214A9100B35C}|Day09_CodeFirst_ShoppingCart\\Day09_CodeFirst_ShoppingCart.csproj|d:\\k\u00EC 1 n\u0103m 3\\laptrinhweb\\day09_codefirst_shoppingcart\\day09_codefirst_shoppingcart\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1D3FA76A-7F14-4B08-B8DE-214A9100B35C}|Day09_CodeFirst_ShoppingCart\\Day09_CodeFirst_ShoppingCart.csproj|solutionrelative:day09_codefirst_shoppingcart\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3FA76A-7F14-4B08-B8DE-214A9100B35C}|Day09_CodeFirst_ShoppingCart\\Day09_CodeFirst_ShoppingCart.csproj|d:\\k\u00EC 1 n\u0103m 3\\laptrinhweb\\day09_codefirst_shoppingcart\\day09_codefirst_shoppingcart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3FA76A-7F14-4B08-B8DE-214A9100B35C}|Day09_CodeFirst_ShoppingCart\\Day09_CodeFirst_ShoppingCart.csproj|solutionrelative:day09_codefirst_shoppingcart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\Day09_CodeFirst_ShoppingCart\\Day09_CodeFirst_ShoppingCart\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Day09_CodeFirst_ShoppingCart\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\Day09_CodeFirst_ShoppingCart\\Day09_CodeFirst_ShoppingCart\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Day09_CodeFirst_ShoppingCart\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAAB/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-12T05:37:54.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KhachHangsController.cs",
+              "DocumentMoniker": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\Day09_CodeFirst_ShoppingCart\\Day09_CodeFirst_ShoppingCart\\Controllers\\KhachHangsController.cs",
+              "RelativeDocumentMoniker": "Day09_CodeFirst_ShoppingCart\\Controllers\\KhachHangsController.cs",
+              "ToolTip": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\Day09_CodeFirst_ShoppingCart\\Day09_CodeFirst_ShoppingCart\\Controllers\\KhachHangsController.cs",
+              "RelativeToolTip": "Day09_CodeFirst_ShoppingCart\\Controllers\\KhachHangsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T05:35:38.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\Day09_CodeFirst_ShoppingCart\\Day09_CodeFirst_ShoppingCart\\Views\\LoaiSanPhams\\Create.cshtml",
+              "RelativeDocumentMoniker": "Day09_CodeFirst_ShoppingCart\\Views\\LoaiSanPhams\\Create.cshtml",
+              "ToolTip": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\Day09_CodeFirst_ShoppingCart\\Day09_CodeFirst_ShoppingCart\\Views\\LoaiSanPhams\\Create.cshtml",
+              "RelativeToolTip": "Day09_CodeFirst_ShoppingCart\\Views\\LoaiSanPhams\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-12T05:09:15.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoaiSanPhamsController.cs",
+              "DocumentMoniker": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\Day09_CodeFirst_ShoppingCart\\Day09_CodeFirst_ShoppingCart\\Controllers\\LoaiSanPhamsController.cs",
+              "RelativeDocumentMoniker": "Day09_CodeFirst_ShoppingCart\\Controllers\\LoaiSanPhamsController.cs",
+              "ToolTip": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\Day09_CodeFirst_ShoppingCart\\Day09_CodeFirst_ShoppingCart\\Controllers\\LoaiSanPhamsController.cs",
+              "RelativeToolTip": "Day09_CodeFirst_ShoppingCart\\Controllers\\LoaiSanPhamsController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAABQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T05:03:09.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\Day09_CodeFirst_ShoppingCart\\Day09_CodeFirst_ShoppingCart\\Program.cs",
+              "RelativeDocumentMoniker": "Day09_CodeFirst_ShoppingCart\\Program.cs",
+              "ToolTip": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\Day09_CodeFirst_ShoppingCart\\Day09_CodeFirst_ShoppingCart\\Program.cs",
+              "RelativeToolTip": "Day09_CodeFirst_ShoppingCart\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T03:34:11.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\Day09_CodeFirst_ShoppingCart\\Day09_CodeFirst_ShoppingCart\\appsettings.json",
+              "RelativeDocumentMoniker": "Day09_CodeFirst_ShoppingCart\\appsettings.json",
+              "ToolTip": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\Day09_CodeFirst_ShoppingCart\\Day09_CodeFirst_ShoppingCart\\appsettings.json",
+              "RelativeToolTip": "Day09_CodeFirst_ShoppingCart\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-12T03:33:25.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\Day09_CodeFirst_ShoppingCart\\Day09_CodeFirst_ShoppingCart\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Day09_CodeFirst_ShoppingCart\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\Day09_CodeFirst_ShoppingCart\\Day09_CodeFirst_ShoppingCart\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Day09_CodeFirst_ShoppingCart\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T03:28:43.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChiTietHoaDon.cs",
+              "DocumentMoniker": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\Day09_CodeFirst_ShoppingCart\\Day09_CodeFirst_ShoppingCart\\Models\\ChiTietHoaDon.cs",
+              "RelativeDocumentMoniker": "Day09_CodeFirst_ShoppingCart\\Models\\ChiTietHoaDon.cs",
+              "ToolTip": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\Day09_CodeFirst_ShoppingCart\\Day09_CodeFirst_ShoppingCart\\Models\\ChiTietHoaDon.cs",
+              "RelativeToolTip": "Day09_CodeFirst_ShoppingCart\\Models\\ChiTietHoaDon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T03:20:22.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HoaDon.cs",
+              "DocumentMoniker": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\Day09_CodeFirst_ShoppingCart\\Day09_CodeFirst_ShoppingCart\\Models\\HoaDon.cs",
+              "RelativeDocumentMoniker": "Day09_CodeFirst_ShoppingCart\\Models\\HoaDon.cs",
+              "ToolTip": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\Day09_CodeFirst_ShoppingCart\\Day09_CodeFirst_ShoppingCart\\Models\\HoaDon.cs",
+              "RelativeToolTip": "Day09_CodeFirst_ShoppingCart\\Models\\HoaDon.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA7wBUAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T03:20:11.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\Day09_CodeFirst_ShoppingCart\\Day09_CodeFirst_ShoppingCart\\Models\\SanPham.cs",
+              "RelativeDocumentMoniker": "Day09_CodeFirst_ShoppingCart\\Models\\SanPham.cs",
+              "ToolTip": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\Day09_CodeFirst_ShoppingCart\\Day09_CodeFirst_ShoppingCart\\Models\\SanPham.cs",
+              "RelativeToolTip": "Day09_CodeFirst_ShoppingCart\\Models\\SanPham.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA1wBEAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T03:20:02.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoaiSanPham.cs",
+              "DocumentMoniker": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\Day09_CodeFirst_ShoppingCart\\Day09_CodeFirst_ShoppingCart\\Models\\LoaiSanPham.cs",
+              "RelativeDocumentMoniker": "Day09_CodeFirst_ShoppingCart\\Models\\LoaiSanPham.cs",
+              "ToolTip": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\Day09_CodeFirst_ShoppingCart\\Day09_CodeFirst_ShoppingCart\\Models\\LoaiSanPham.cs",
+              "RelativeToolTip": "Day09_CodeFirst_ShoppingCart\\Models\\LoaiSanPham.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T03:19:49.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QuanTri.cs",
+              "DocumentMoniker": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\Day09_CodeFirst_ShoppingCart\\Day09_CodeFirst_ShoppingCart\\Models\\QuanTri.cs",
+              "RelativeDocumentMoniker": "Day09_CodeFirst_ShoppingCart\\Models\\QuanTri.cs",
+              "ToolTip": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\Day09_CodeFirst_ShoppingCart\\Day09_CodeFirst_ShoppingCart\\Models\\QuanTri.cs",
+              "RelativeToolTip": "Day09_CodeFirst_ShoppingCart\\Models\\QuanTri.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T03:19:31.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KhachHang.cs",
+              "DocumentMoniker": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\Day09_CodeFirst_ShoppingCart\\Day09_CodeFirst_ShoppingCart\\Models\\KhachHang.cs",
+              "RelativeDocumentMoniker": "Day09_CodeFirst_ShoppingCart\\Models\\KhachHang.cs",
+              "ToolTip": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\Day09_CodeFirst_ShoppingCart\\Day09_CodeFirst_ShoppingCart\\Models\\KhachHang.cs",
+              "RelativeToolTip": "Day09_CodeFirst_ShoppingCart\\Models\\KhachHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T03:19:16.539Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
