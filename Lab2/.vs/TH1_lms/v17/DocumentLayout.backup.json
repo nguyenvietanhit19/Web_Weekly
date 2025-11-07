@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\ThucHanh\\Day12Lab\\Lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94607069-E992-47F0-B02F-006491D42A50}|TH1_lms\\TH1_lms.csproj|d:\\k\u00EC 1 n\u0103m 3\\laptrinhweb\\thuchanh\\day12lab\\lab2\\th1_lms\\views\\shared\\mylayouthelper.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94607069-E992-47F0-B02F-006491D42A50}|TH1_lms\\TH1_lms.csproj|solutionrelative:th1_lms\\views\\shared\\mylayouthelper.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94607069-E992-47F0-B02F-006491D42A50}|TH1_lms\\TH1_lms.csproj|d:\\k\u00EC 1 n\u0103m 3\\laptrinhweb\\thuchanh\\day12lab\\lab2\\th1_lms\\views\\shared\\components\\render\\renderleftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94607069-E992-47F0-B02F-006491D42A50}|TH1_lms\\TH1_lms.csproj|solutionrelative:th1_lms\\views\\shared\\components\\render\\renderleftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94607069-E992-47F0-B02F-006491D42A50}|TH1_lms\\TH1_lms.csproj|d:\\k\u00EC 1 n\u0103m 3\\laptrinhweb\\thuchanh\\day12lab\\lab2\\th1_lms\\viewcomponents\\renderviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94607069-E992-47F0-B02F-006491D42A50}|TH1_lms\\TH1_lms.csproj|solutionrelative:th1_lms\\viewcomponents\\renderviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94607069-E992-47F0-B02F-006491D42A50}|TH1_lms\\TH1_lms.csproj|d:\\k\u00EC 1 n\u0103m 3\\laptrinhweb\\thuchanh\\day12lab\\lab2\\th1_lms\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94607069-E992-47F0-B02F-006491D42A50}|TH1_lms\\TH1_lms.csproj|solutionrelative:th1_lms\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94607069-E992-47F0-B02F-006491D42A50}|TH1_lms\\TH1_lms.csproj|d:\\k\u00EC 1 n\u0103m 3\\laptrinhweb\\thuchanh\\day12lab\\lab2\\th1_lms\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94607069-E992-47F0-B02F-006491D42A50}|TH1_lms\\TH1_lms.csproj|solutionrelative:th1_lms\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94607069-E992-47F0-B02F-006491D42A50}|TH1_lms\\TH1_lms.csproj|d:\\k\u00EC 1 n\u0103m 3\\laptrinhweb\\thuchanh\\day12lab\\lab2\\th1_lms\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94607069-E992-47F0-B02F-006491D42A50}|TH1_lms\\TH1_lms.csproj|solutionrelative:th1_lms\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94607069-E992-47F0-B02F-006491D42A50}|TH1_lms\\TH1_lms.csproj|d:\\k\u00EC 1 n\u0103m 3\\laptrinhweb\\thuchanh\\day12lab\\lab2\\th1_lms\\views\\shared\\mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94607069-E992-47F0-B02F-006491D42A50}|TH1_lms\\TH1_lms.csproj|solutionrelative:th1_lms\\views\\shared\\mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94607069-E992-47F0-B02F-006491D42A50}|TH1_lms\\TH1_lms.csproj|d:\\k\u00EC 1 n\u0103m 3\\laptrinhweb\\thuchanh\\day12lab\\lab2\\th1_lms\\views\\shared\\leftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94607069-E992-47F0-B02F-006491D42A50}|TH1_lms\\TH1_lms.csproj|solutionrelative:th1_lms\\views\\shared\\leftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94607069-E992-47F0-B02F-006491D42A50}|TH1_lms\\TH1_lms.csproj|d:\\k\u00EC 1 n\u0103m 3\\laptrinhweb\\thuchanh\\day12lab\\lab2\\th1_lms\\views\\shared\\topnav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94607069-E992-47F0-B02F-006491D42A50}|TH1_lms\\TH1_lms.csproj|solutionrelative:th1_lms\\views\\shared\\topnav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94607069-E992-47F0-B02F-006491D42A50}|TH1_lms\\TH1_lms.csproj|d:\\k\u00EC 1 n\u0103m 3\\laptrinhweb\\thuchanh\\day12lab\\lab2\\th1_lms\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94607069-E992-47F0-B02F-006491D42A50}|TH1_lms\\TH1_lms.csproj|solutionrelative:th1_lms\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94607069-E992-47F0-B02F-006491D42A50}|TH1_lms\\TH1_lms.csproj|d:\\k\u00EC 1 n\u0103m 3\\laptrinhweb\\thuchanh\\day12lab\\lab2\\th1_lms\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94607069-E992-47F0-B02F-006491D42A50}|TH1_lms\\TH1_lms.csproj|solutionrelative:th1_lms\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94607069-E992-47F0-B02F-006491D42A50}|TH1_lms\\TH1_lms.csproj|d:\\k\u00EC 1 n\u0103m 3\\laptrinhweb\\thuchanh\\day12lab\\lab2\\th1_lms\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94607069-E992-47F0-B02F-006491D42A50}|TH1_lms\\TH1_lms.csproj|solutionrelative:th1_lms\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94607069-E992-47F0-B02F-006491D42A50}|TH1_lms\\TH1_lms.csproj|d:\\k\u00EC 1 n\u0103m 3\\laptrinhweb\\thuchanh\\day12lab\\lab2\\th1_lms\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94607069-E992-47F0-B02F-006491D42A50}|TH1_lms\\TH1_lms.csproj|solutionrelative:th1_lms\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94607069-E992-47F0-B02F-006491D42A50}|TH1_lms\\TH1_lms.csproj|d:\\k\u00EC 1 n\u0103m 3\\laptrinhweb\\thuchanh\\day12lab\\lab2\\th1_lms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94607069-E992-47F0-B02F-006491D42A50}|TH1_lms\\TH1_lms.csproj|solutionrelative:th1_lms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94607069-E992-47F0-B02F-006491D42A50}|TH1_lms\\TH1_lms.csproj|d:\\k\u00EC 1 n\u0103m 3\\laptrinhweb\\thuchanh\\day12lab\\lab2\\th1_lms\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94607069-E992-47F0-B02F-006491D42A50}|TH1_lms\\TH1_lms.csproj|solutionrelative:th1_lms\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94607069-E992-47F0-B02F-006491D42A50}|TH1_lms\\TH1_lms.csproj|d:\\k\u00EC 1 n\u0103m 3\\laptrinhweb\\thuchanh\\day12lab\\lab2\\th1_lms\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94607069-E992-47F0-B02F-006491D42A50}|TH1_lms\\TH1_lms.csproj|solutionrelative:th1_lms\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyLayoutHelper.cshtml",
+              "DocumentMoniker": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\ThucHanh\\Day12Lab\\Lab2\\TH1_lms\\Views\\Shared\\MyLayoutHelper.cshtml",
+              "RelativeDocumentMoniker": "TH1_lms\\Views\\Shared\\MyLayoutHelper.cshtml",
+              "ToolTip": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\ThucHanh\\Day12Lab\\Lab2\\TH1_lms\\Views\\Shared\\MyLayoutHelper.cshtml",
+              "RelativeToolTip": "TH1_lms\\Views\\Shared\\MyLayoutHelper.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T01:59:31.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RenderLeftMenu.cshtml",
+              "DocumentMoniker": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\ThucHanh\\Day12Lab\\Lab2\\TH1_lms\\Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml",
+              "RelativeDocumentMoniker": "TH1_lms\\Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml",
+              "ToolTip": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\ThucHanh\\Day12Lab\\Lab2\\TH1_lms\\Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml",
+              "RelativeToolTip": "TH1_lms\\Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T01:54:20.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RenderViewComponent.cs",
+              "DocumentMoniker": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\ThucHanh\\Day12Lab\\Lab2\\TH1_lms\\ViewComponents\\RenderViewComponent.cs",
+              "RelativeDocumentMoniker": "TH1_lms\\ViewComponents\\RenderViewComponent.cs",
+              "ToolTip": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\ThucHanh\\Day12Lab\\Lab2\\TH1_lms\\ViewComponents\\RenderViewComponent.cs",
+              "RelativeToolTip": "TH1_lms\\ViewComponents\\RenderViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T01:49:06.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MenuItem.cs",
+              "DocumentMoniker": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\ThucHanh\\Day12Lab\\Lab2\\TH1_lms\\Models\\MenuItem.cs",
+              "RelativeDocumentMoniker": "TH1_lms\\Models\\MenuItem.cs",
+              "ToolTip": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\ThucHanh\\Day12Lab\\Lab2\\TH1_lms\\Models\\MenuItem.cs",
+              "RelativeToolTip": "TH1_lms\\Models\\MenuItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T01:47:42.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Footer.cshtml",
+              "DocumentMoniker": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\ThucHanh\\Day12Lab\\Lab2\\TH1_lms\\Views\\Shared\\Footer.cshtml",
+              "RelativeDocumentMoniker": "TH1_lms\\Views\\Shared\\Footer.cshtml",
+              "ToolTip": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\ThucHanh\\Day12Lab\\Lab2\\TH1_lms\\Views\\Shared\\Footer.cshtml",
+              "RelativeToolTip": "TH1_lms\\Views\\Shared\\Footer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T01:23:15.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LeftMenu.cshtml",
+              "DocumentMoniker": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\ThucHanh\\Day12Lab\\Lab2\\TH1_lms\\Views\\Shared\\LeftMenu.cshtml",
+              "RelativeDocumentMoniker": "TH1_lms\\Views\\Shared\\LeftMenu.cshtml",
+              "ToolTip": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\ThucHanh\\Day12Lab\\Lab2\\TH1_lms\\Views\\Shared\\LeftMenu.cshtml",
+              "RelativeToolTip": "TH1_lms\\Views\\Shared\\LeftMenu.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAIwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T01:22:49.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TopNav.cshtml",
+              "DocumentMoniker": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\ThucHanh\\Day12Lab\\Lab2\\TH1_lms\\Views\\Shared\\TopNav.cshtml",
+              "RelativeDocumentMoniker": "TH1_lms\\Views\\Shared\\TopNav.cshtml",
+              "ToolTip": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\ThucHanh\\Day12Lab\\Lab2\\TH1_lms\\Views\\Shared\\TopNav.cshtml",
+              "RelativeToolTip": "TH1_lms\\Views\\Shared\\TopNav.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T01:18:43.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\ThucHanh\\Day12Lab\\Lab2\\TH1_lms\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TH1_lms\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\ThucHanh\\Day12Lab\\Lab2\\TH1_lms\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TH1_lms\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T01:05:28.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyLayout.cshtml",
+              "DocumentMoniker": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\ThucHanh\\Day12Lab\\Lab2\\TH1_lms\\Views\\Shared\\MyLayout.cshtml",
+              "RelativeDocumentMoniker": "TH1_lms\\Views\\Shared\\MyLayout.cshtml",
+              "ToolTip": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\ThucHanh\\Day12Lab\\Lab2\\TH1_lms\\Views\\Shared\\MyLayout.cshtml",
+              "RelativeToolTip": "TH1_lms\\Views\\Shared\\MyLayout.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T01:04:06.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\ThucHanh\\Day12Lab\\Lab2\\TH1_lms\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TH1_lms\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\ThucHanh\\Day12Lab\\Lab2\\TH1_lms\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TH1_lms\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T00:53:02.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\ThucHanh\\Day12Lab\\Lab2\\TH1_lms\\Program.cs",
+              "RelativeDocumentMoniker": "TH1_lms\\Program.cs",
+              "ToolTip": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\ThucHanh\\Day12Lab\\Lab2\\TH1_lms\\Program.cs",
+              "RelativeToolTip": "TH1_lms\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T00:40:36.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\ThucHanh\\Day12Lab\\Lab2\\TH1_lms\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "TH1_lms\\Views\\Student\\Index.cshtml",
+              "ToolTip": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\ThucHanh\\Day12Lab\\Lab2\\TH1_lms\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "TH1_lms\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-07T15:23:05.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\ThucHanh\\Day12Lab\\Lab2\\TH1_lms\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "TH1_lms\\Views\\Student\\Create.cshtml",
+              "ToolTip": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\ThucHanh\\Day12Lab\\Lab2\\TH1_lms\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "TH1_lms\\Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-07T17:23:21.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\ThucHanh\\Day12Lab\\Lab2\\TH1_lms\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "TH1_lms\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\ThucHanh\\Day12Lab\\Lab2\\TH1_lms\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "TH1_lms\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAYwEsAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T15:27:23.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\ThucHanh\\Day12Lab\\Lab2\\TH1_lms\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "TH1_lms\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\ThucHanh\\Day12Lab\\Lab2\\TH1_lms\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "TH1_lms\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T15:27:14.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\ThucHanh\\Day12Lab\\Lab2\\TH1_lms\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "TH1_lms\\Models\\Student.cs",
+              "ToolTip": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\ThucHanh\\Day12Lab\\Lab2\\TH1_lms\\Models\\Student.cs",
+              "RelativeToolTip": "TH1_lms\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T15:27:11.052Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
