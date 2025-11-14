@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TH1_lms/1.0.0": {
+        "runtime": {
+          "TH1_lms.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TH1_lms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

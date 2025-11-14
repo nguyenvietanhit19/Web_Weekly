@@ -1,0 +1,266 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\ThucHanh\\Day13 Lap_3_4\\Lab4\\CF_Lab_4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71CD283F-B344-42A9-8B0E-3675A7340BC7}|CF_Lab_4\\CF_Lab_4.csproj|d:\\k\u00EC 1 n\u0103m 3\\laptrinhweb\\thuchanh\\day13 lap_3_4\\lab4\\cf_lab_4\\cf_lab_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71CD283F-B344-42A9-8B0E-3675A7340BC7}|CF_Lab_4\\CF_Lab_4.csproj|solutionrelative:cf_lab_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CD283F-B344-42A9-8B0E-3675A7340BC7}|CF_Lab_4\\CF_Lab_4.csproj|d:\\k\u00EC 1 n\u0103m 3\\laptrinhweb\\thuchanh\\day13 lap_3_4\\lab4\\cf_lab_4\\cf_lab_4\\views\\shared\\mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71CD283F-B344-42A9-8B0E-3675A7340BC7}|CF_Lab_4\\CF_Lab_4.csproj|solutionrelative:cf_lab_4\\views\\shared\\mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CD283F-B344-42A9-8B0E-3675A7340BC7}|CF_Lab_4\\CF_Lab_4.csproj|d:\\k\u00EC 1 n\u0103m 3\\laptrinhweb\\thuchanh\\day13 lap_3_4\\lab4\\cf_lab_4\\cf_lab_4\\views\\learners\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71CD283F-B344-42A9-8B0E-3675A7340BC7}|CF_Lab_4\\CF_Lab_4.csproj|solutionrelative:cf_lab_4\\views\\learners\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CD283F-B344-42A9-8B0E-3675A7340BC7}|CF_Lab_4\\CF_Lab_4.csproj|d:\\k\u00EC 1 n\u0103m 3\\laptrinhweb\\thuchanh\\day13 lap_3_4\\lab4\\cf_lab_4\\cf_lab_4\\views\\learners\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71CD283F-B344-42A9-8B0E-3675A7340BC7}|CF_Lab_4\\CF_Lab_4.csproj|solutionrelative:cf_lab_4\\views\\learners\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CD283F-B344-42A9-8B0E-3675A7340BC7}|CF_Lab_4\\CF_Lab_4.csproj|d:\\k\u00EC 1 n\u0103m 3\\laptrinhweb\\thuchanh\\day13 lap_3_4\\lab4\\cf_lab_4\\cf_lab_4\\views\\learners\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71CD283F-B344-42A9-8B0E-3675A7340BC7}|CF_Lab_4\\CF_Lab_4.csproj|solutionrelative:cf_lab_4\\views\\learners\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CD283F-B344-42A9-8B0E-3675A7340BC7}|CF_Lab_4\\CF_Lab_4.csproj|d:\\k\u00EC 1 n\u0103m 3\\laptrinhweb\\thuchanh\\day13 lap_3_4\\lab4\\cf_lab_4\\cf_lab_4\\views\\learners\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71CD283F-B344-42A9-8B0E-3675A7340BC7}|CF_Lab_4\\CF_Lab_4.csproj|solutionrelative:cf_lab_4\\views\\learners\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CD283F-B344-42A9-8B0E-3675A7340BC7}|CF_Lab_4\\CF_Lab_4.csproj|d:\\k\u00EC 1 n\u0103m 3\\laptrinhweb\\thuchanh\\day13 lap_3_4\\lab4\\cf_lab_4\\cf_lab_4\\views\\learners\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71CD283F-B344-42A9-8B0E-3675A7340BC7}|CF_Lab_4\\CF_Lab_4.csproj|solutionrelative:cf_lab_4\\views\\learners\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CD283F-B344-42A9-8B0E-3675A7340BC7}|CF_Lab_4\\CF_Lab_4.csproj|d:\\k\u00EC 1 n\u0103m 3\\laptrinhweb\\thuchanh\\day13 lap_3_4\\lab4\\cf_lab_4\\cf_lab_4\\controllers\\learnerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71CD283F-B344-42A9-8B0E-3675A7340BC7}|CF_Lab_4\\CF_Lab_4.csproj|solutionrelative:cf_lab_4\\controllers\\learnerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CD283F-B344-42A9-8B0E-3675A7340BC7}|CF_Lab_4\\CF_Lab_4.csproj|d:\\k\u00EC 1 n\u0103m 3\\laptrinhweb\\thuchanh\\day13 lap_3_4\\lab4\\cf_lab_4\\cf_lab_4\\models\\learner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71CD283F-B344-42A9-8B0E-3675A7340BC7}|CF_Lab_4\\CF_Lab_4.csproj|solutionrelative:cf_lab_4\\models\\learner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CD283F-B344-42A9-8B0E-3675A7340BC7}|CF_Lab_4\\CF_Lab_4.csproj|d:\\k\u00EC 1 n\u0103m 3\\laptrinhweb\\thuchanh\\day13 lap_3_4\\lab4\\cf_lab_4\\cf_lab_4\\models\\major.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71CD283F-B344-42A9-8B0E-3675A7340BC7}|CF_Lab_4\\CF_Lab_4.csproj|solutionrelative:cf_lab_4\\models\\major.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CD283F-B344-42A9-8B0E-3675A7340BC7}|CF_Lab_4\\CF_Lab_4.csproj|d:\\k\u00EC 1 n\u0103m 3\\laptrinhweb\\thuchanh\\day13 lap_3_4\\lab4\\cf_lab_4\\cf_lab_4\\models\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71CD283F-B344-42A9-8B0E-3675A7340BC7}|CF_Lab_4\\CF_Lab_4.csproj|solutionrelative:cf_lab_4\\models\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CD283F-B344-42A9-8B0E-3675A7340BC7}|CF_Lab_4\\CF_Lab_4.csproj|d:\\k\u00EC 1 n\u0103m 3\\laptrinhweb\\thuchanh\\day13 lap_3_4\\lab4\\cf_lab_4\\cf_lab_4\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71CD283F-B344-42A9-8B0E-3675A7340BC7}|CF_Lab_4\\CF_Lab_4.csproj|solutionrelative:cf_lab_4\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CD283F-B344-42A9-8B0E-3675A7340BC7}|CF_Lab_4\\CF_Lab_4.csproj|d:\\k\u00EC 1 n\u0103m 3\\laptrinhweb\\thuchanh\\day13 lap_3_4\\lab4\\cf_lab_4\\cf_lab_4\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71CD283F-B344-42A9-8B0E-3675A7340BC7}|CF_Lab_4\\CF_Lab_4.csproj|solutionrelative:cf_lab_4\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CD283F-B344-42A9-8B0E-3675A7340BC7}|CF_Lab_4\\CF_Lab_4.csproj|d:\\k\u00EC 1 n\u0103m 3\\laptrinhweb\\thuchanh\\day13 lap_3_4\\lab4\\cf_lab_4\\cf_lab_4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{71CD283F-B344-42A9-8B0E-3675A7340BC7}|CF_Lab_4\\CF_Lab_4.csproj|solutionrelative:cf_lab_4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyLayout.cshtml",
+              "DocumentMoniker": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\ThucHanh\\Day13 Lap_3_4\\Lab4\\CF_Lab_4\\CF_Lab_4\\Views\\Shared\\MyLayout.cshtml",
+              "RelativeDocumentMoniker": "CF_Lab_4\\Views\\Shared\\MyLayout.cshtml",
+              "ToolTip": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\ThucHanh\\Day13 Lap_3_4\\Lab4\\CF_Lab_4\\CF_Lab_4\\Views\\Shared\\MyLayout.cshtml",
+              "RelativeToolTip": "CF_Lab_4\\Views\\Shared\\MyLayout.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T15:14:27.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\ThucHanh\\Day13 Lap_3_4\\Lab4\\CF_Lab_4\\CF_Lab_4\\Views\\Learners\\Details.cshtml",
+              "RelativeDocumentMoniker": "CF_Lab_4\\Views\\Learners\\Details.cshtml",
+              "ToolTip": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\ThucHanh\\Day13 Lap_3_4\\Lab4\\CF_Lab_4\\CF_Lab_4\\Views\\Learners\\Details.cshtml",
+              "RelativeToolTip": "CF_Lab_4\\Views\\Learners\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T15:11:23.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\ThucHanh\\Day13 Lap_3_4\\Lab4\\CF_Lab_4\\CF_Lab_4\\Views\\Learners\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CF_Lab_4\\Views\\Learners\\Delete.cshtml",
+              "ToolTip": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\ThucHanh\\Day13 Lap_3_4\\Lab4\\CF_Lab_4\\CF_Lab_4\\Views\\Learners\\Delete.cshtml",
+              "RelativeToolTip": "CF_Lab_4\\Views\\Learners\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T15:11:19.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\ThucHanh\\Day13 Lap_3_4\\Lab4\\CF_Lab_4\\CF_Lab_4\\Views\\Learners\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CF_Lab_4\\Views\\Learners\\Edit.cshtml",
+              "ToolTip": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\ThucHanh\\Day13 Lap_3_4\\Lab4\\CF_Lab_4\\CF_Lab_4\\Views\\Learners\\Edit.cshtml",
+              "RelativeToolTip": "CF_Lab_4\\Views\\Learners\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T15:11:10.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\ThucHanh\\Day13 Lap_3_4\\Lab4\\CF_Lab_4\\CF_Lab_4\\Views\\Learners\\Index.cshtml",
+              "RelativeDocumentMoniker": "CF_Lab_4\\Views\\Learners\\Index.cshtml",
+              "ToolTip": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\ThucHanh\\Day13 Lap_3_4\\Lab4\\CF_Lab_4\\CF_Lab_4\\Views\\Learners\\Index.cshtml",
+              "RelativeToolTip": "CF_Lab_4\\Views\\Learners\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T15:10:48.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\ThucHanh\\Day13 Lap_3_4\\Lab4\\CF_Lab_4\\CF_Lab_4\\Views\\Learners\\Create.cshtml",
+              "RelativeDocumentMoniker": "CF_Lab_4\\Views\\Learners\\Create.cshtml",
+              "ToolTip": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\ThucHanh\\Day13 Lap_3_4\\Lab4\\CF_Lab_4\\CF_Lab_4\\Views\\Learners\\Create.cshtml",
+              "RelativeToolTip": "CF_Lab_4\\Views\\Learners\\Create.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAqwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T14:53:56.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LearnersController.cs",
+              "DocumentMoniker": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\ThucHanh\\Day13 Lap_3_4\\Lab4\\CF_Lab_4\\CF_Lab_4\\Controllers\\LearnersController.cs",
+              "RelativeDocumentMoniker": "CF_Lab_4\\Controllers\\LearnersController.cs",
+              "ToolTip": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\ThucHanh\\Day13 Lap_3_4\\Lab4\\CF_Lab_4\\CF_Lab_4\\Controllers\\LearnersController.cs",
+              "RelativeToolTip": "CF_Lab_4\\Controllers\\LearnersController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAUwE4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T14:35:04.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\ThucHanh\\Day13 Lap_3_4\\Lab4\\CF_Lab_4\\CF_Lab_4\\Program.cs",
+              "RelativeDocumentMoniker": "CF_Lab_4\\Program.cs",
+              "ToolTip": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\ThucHanh\\Day13 Lap_3_4\\Lab4\\CF_Lab_4\\CF_Lab_4\\Program.cs",
+              "RelativeToolTip": "CF_Lab_4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T14:30:04.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\ThucHanh\\Day13 Lap_3_4\\Lab4\\CF_Lab_4\\CF_Lab_4\\appsettings.json",
+              "RelativeDocumentMoniker": "CF_Lab_4\\appsettings.json",
+              "ToolTip": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\ThucHanh\\Day13 Lap_3_4\\Lab4\\CF_Lab_4\\CF_Lab_4\\appsettings.json",
+              "RelativeToolTip": "CF_Lab_4\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-14T14:29:37.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Learner.cs",
+              "DocumentMoniker": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\ThucHanh\\Day13 Lap_3_4\\Lab4\\CF_Lab_4\\CF_Lab_4\\Models\\Learner.cs",
+              "RelativeDocumentMoniker": "CF_Lab_4\\Models\\Learner.cs",
+              "ToolTip": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\ThucHanh\\Day13 Lap_3_4\\Lab4\\CF_Lab_4\\CF_Lab_4\\Models\\Learner.cs",
+              "RelativeToolTip": "CF_Lab_4\\Models\\Learner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T14:26:51.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Major.cs",
+              "DocumentMoniker": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\ThucHanh\\Day13 Lap_3_4\\Lab4\\CF_Lab_4\\CF_Lab_4\\Models\\Major.cs",
+              "RelativeDocumentMoniker": "CF_Lab_4\\Models\\Major.cs",
+              "ToolTip": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\ThucHanh\\Day13 Lap_3_4\\Lab4\\CF_Lab_4\\CF_Lab_4\\Models\\Major.cs",
+              "RelativeToolTip": "CF_Lab_4\\Models\\Major.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T14:26:41.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\ThucHanh\\Day13 Lap_3_4\\Lab4\\CF_Lab_4\\CF_Lab_4\\Models\\Enrollment.cs",
+              "RelativeDocumentMoniker": "CF_Lab_4\\Models\\Enrollment.cs",
+              "ToolTip": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\ThucHanh\\Day13 Lap_3_4\\Lab4\\CF_Lab_4\\CF_Lab_4\\Models\\Enrollment.cs",
+              "RelativeToolTip": "CF_Lab_4\\Models\\Enrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T14:26:28.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\ThucHanh\\Day13 Lap_3_4\\Lab4\\CF_Lab_4\\CF_Lab_4\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "CF_Lab_4\\Models\\Course.cs",
+              "ToolTip": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\ThucHanh\\Day13 Lap_3_4\\Lab4\\CF_Lab_4\\CF_Lab_4\\Models\\Course.cs",
+              "RelativeToolTip": "CF_Lab_4\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T14:26:01.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SchoolContext.cs",
+              "DocumentMoniker": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\ThucHanh\\Day13 Lap_3_4\\Lab4\\CF_Lab_4\\CF_Lab_4\\Models\\SchoolContext.cs",
+              "RelativeDocumentMoniker": "CF_Lab_4\\Models\\SchoolContext.cs",
+              "ToolTip": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhWeb\\ThucHanh\\Day13 Lap_3_4\\Lab4\\CF_Lab_4\\CF_Lab_4\\Models\\SchoolContext.cs",
+              "RelativeToolTip": "CF_Lab_4\\Models\\SchoolContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T14:25:50.904Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
